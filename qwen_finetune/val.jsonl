@@ -1,0 +1,22 @@
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "새 직장에서 만나고 싶지 않은 사람을 만나서 너무 스트레스를 받으실 것 같아요.", "output": {"h": 220, "s": 60, "b": 70, "dimmer": 70, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "잘 안 맞는 사람이랑 억지로 잘 지내는 것보단 조금은 거리를 두고 예의를 갖춰서 대하는 게 덜 스트레스받을 것 같아.", "output": {"h": 210, "s": 30, "b": 50, "dimmer": 50, "ct": 300}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "이번 달에 또 급여가 깎였어! 물가는 오르는데 월급만 자꾸 깎이니까 너무 화가 나.", "output": {"h": 0, "s": 100, "b": 80, "dimmer": 80, "ct": 350}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "무슨 실수를 하셨나요?", "output": {"h": 240, "s": 30, "b": 60, "dimmer": 60, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "취업에 대한 질문이 당혹스러우셨군요.", "output": {"h": 240, "s": 30, "b": 60, "dimmer": 60, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "잘못 발송된 문자로 당황하셨군요. 사과는 받으셨나요?", "output": {"h": 240, "s": 30, "b": 60, "dimmer": 60, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "퇴사한 지 얼마 안 됐지만 천천히 직장을 구해보려고.", "output": {"h": 45, "s": 30, "b": 50, "dimmer": 50, "ct": 300}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "취업하고 싶지 않으시군요.", "output": {"h": 240, "s": 20, "b": 50, "dimmer": 50, "ct": 350}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "사내 분위기가 좋아서 즐거우시군요.", "output": {"h": 60, "s": 50, "b": 80, "dimmer": 80, "ct": 400}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "스트레스받지 않기 위해선 인간관계에 있어 약간의 거리를 두는 게 좋겠군요.", "output": {"h": 210, "s": 30, "b": 50, "dimmer": 50, "ct": 300}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "코로나 때문에 뭘 할 수가 없어. 취직 준비를 해야 하는데 시험이 줄줄이 취소되니 말이야. 마비라는 말이 이럴 때 참 어울리는 것 같아.", "output": {"h": 260, "s": 60, "b": 50, "dimmer": 50, "ct": 280}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "코로나로 취업이 어렵군요. 시험도 줄줄이 취소되고요.", "output": {"h": 240, "s": 30, "b": 60, "dimmer": 60, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "일은 왜 해도 해도 끝이 없을까? 화가 난다.", "output": {"h": 220, "s": 60, "b": 70, "dimmer": 70, "ct": 300}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "자격증 시험은 못 보지만 공부는 계속해서 할 수 있지. 주어진 상황이 이러니 일단 공부라도 열심히 해봐야겠네.", "output": {"h": 120, "s": 30, "b": 70, "dimmer": 70, "ct": 400}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "상사인 나에게 먼저 인사하지 않아서 매일 내가 먼저 인사한다고!", "output": {"h": 0, "s": 100, "b": 70, "dimmer": 70, "ct": 320}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "대기업의 실수 때문에 실망감을 느끼시는군요.", "output": {"h": 240, "s": 30, "b": 60, "dimmer": 60, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "중요한 서류가 사라져서 당혹스러우시군요. 찾아볼 방법이 있을까요?", "output": {"h": 240, "s": 30, "b": 70, "dimmer": 70, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "무슨 일 있었나요?", "output": {"h": 240, "s": 30, "b": 60, "dimmer": 60, "ct": 380}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "열심히 준비한 만큼 원하던 점수가 나왔어.", "output": {"h": 90, "s": 80, "b": 95, "dimmer": 95, "ct": 450}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "우리 회사는 복지가 정말 좋아! 내가 곧 출산하게 되는데 육아휴직 기간도 긴 데다가 소정의 지원금도 제공해줘!", "output": {"h": 90, "s": 80, "b": 95, "dimmer": 95, "ct": 450}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "직장에서 막내라는 이유로 나에게만 온갖 심부름을 시켜. 일도 많은 데 정말 분하고 섭섭해.", "output": {"h": 340, "s": 70, "b": 75, "dimmer": 75, "ct": 250}}
+{"instruction": "다음 문장의 감정에 어울리는 H,S,B,Dimmer,CT 값을 예측하세요. JSON으로만 답하세요.", "input": "취업에 대해 걱정이 되는군요.", "output": {"h": 240, "s": 40, "b": 60, "dimmer": 60, "ct": 300}}
